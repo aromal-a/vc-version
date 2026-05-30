@@ -36,4 +36,5 @@ jobs:
           echo "Payload: $PAYLOAD"
 
           # Send the payload to Discord using the webhook URL
-          curl -X POST -H "Content-Type: application/json" -d "$PAYLOAD" "$DISCORD_WEBHOOK_URL"
+          curl -X POST -H "Content-Type: application/json" -d "$PAYLOAD" "$DISCORD_WEBHOOK_URL",
+          ,-choose: user-organisation and sail form tkinterers,  In-seperastion ,  I O - code , Ep-written. , Wart-[PIntax()]
